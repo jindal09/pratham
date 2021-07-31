@@ -1,0 +1,60 @@
+{
+	"basics": {
+		"name": "PRATHAM JINDAL",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/88241867?s=400&u=1af0399392c9d7861da47f0639dec918f29d8b6d&v=4",
+		"email": "2020kucp1022@iiitkota.ac.in",
+		"phone": "9541523011",
+		"summary": "I am a student of IIIT KOTA pursuing B.Tech in Computer science and engineering",
+		"location": {
+			"address": "176d,ward no.4,RANIA",
+			"postalCode": "125076",
+			"city": "SIRSA",
+			"countryCode": "India",
+			"region": "HARYANA"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "pratham092001",
+				"url": "https://twitter.com/pratham092001?s=08"
+			},
+			{
+				"network": "Github",
+				"username": "jindal09",
+				"url": "https://www.github.com/jindal09/"
+			},
+			{
+				"network": "linkedin",
+				"username": "pratham-jindal-1b27401b9",
+				"url": "https://www.linkedin.com/in/pratham-jindal-1b27401b9/"
+			},
+			{
+				"network": "Instagram",
+				"username": "prathamjindal_",
+				"url": "https://instagram.com/prathamjindal_"
+			}
+		]
+	},
+
+	"education": [{
+		"institution": "Indian Institute of Information technology,Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2020-12-02 //Date",
+		"endDate": "2024",
+		"gpa": "8.17",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+
+	"skills": [{
+		"level": "Intermediate",
+		"keywords": ["HTML", "CSS", "Javascript", "C", "C++"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Cricket", "Badminton"]
+	}]
+
+}
